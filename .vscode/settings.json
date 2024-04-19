@@ -1,0 +1,7 @@
+{
+  "pasteImage.basePath": "${currentFileDir}/..",
+  "pasteImage.insertPattern": "${imageSyntaxPrefix}/${imageFilePath}${imageSyntaxSuffix}",
+  "pasteImage.path": "${currentFileDir}/../images/${currentFileNameWithoutExt}",
+  "markdown.preview.breaks": true,
+  "editor.defaultFormatter": "vscode.markdown-language-features"
+}
